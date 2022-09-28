@@ -13,8 +13,12 @@ export default function NavBar() {
           <Link href="/">
             <a>Ndondeezo</a>
           </Link>
-          <Link href="/about">Nyehe</Link>
-          <Link href="/people/Ayivugwe">Abandu</Link>
+          <Link href="/about">
+            <a>Nyehe</a>
+          </Link>
+          <Link href="/people/Ayivugwe">
+            <a>Abandu</a>
+          </Link>
         </p>
       </div>
     </div>

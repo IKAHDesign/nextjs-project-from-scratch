@@ -1,3 +1,4 @@
+//import './styles/globals.css';
 import Link from 'next/link';
 
 export default function NavBar() {
@@ -5,7 +6,7 @@ export default function NavBar() {
     <div>
       <div>
         <h2>
-          <Link href="/"> Namuyehuulo wani mu Next.js</Link>
+          <Link href="/">Namuyehuulo wani mu Next.js</Link>
         </h2>
       </div>
       <div>
